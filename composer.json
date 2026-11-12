@@ -1,0 +1,13 @@
+{
+    "require": {
+        "solvebeam/twinfield": "^0.2",
+        "solvebeam/twinfield-cli": "^0.1"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^4.0"
+    },
+    "scripts": {
+        "phpcs": "phpcs",
+        "example": "@php example.php"
+    }
+}
